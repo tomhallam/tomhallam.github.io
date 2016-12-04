@@ -1,2 +1,4 @@
-# tomhallam.github.io
-My website
+
+# Blog
+
+The default [wintersmith](https://github.com/jnordberg/wintersmith) template
